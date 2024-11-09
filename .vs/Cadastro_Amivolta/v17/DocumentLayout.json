@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudos\\Amivolta\\Cadastro Amivolta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FC0E2C-B362-46FB-B967-22FF91A5C657}|Cadastro_Amivolta.csproj|d:\\estudos\\amivolta\\cadastro amivolta\\tela_de_carregamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0FC0E2C-B362-46FB-B967-22FF91A5C657}|Cadastro_Amivolta.csproj|solutionrelative:tela_de_carregamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FC0E2C-B362-46FB-B967-22FF91A5C657}|Cadastro_Amivolta.csproj|d:\\estudos\\amivolta\\cadastro amivolta\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0FC0E2C-B362-46FB-B967-22FF91A5C657}|Cadastro_Amivolta.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FC0E2C-B362-46FB-B967-22FF91A5C657}|Cadastro_Amivolta.csproj|d:\\estudos\\amivolta\\cadastro amivolta\\cadastro_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0FC0E2C-B362-46FB-B967-22FF91A5C657}|Cadastro_Amivolta.csproj|solutionrelative:cadastro_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tela_de_carregamento.cs [Design]",
+              "DocumentMoniker": "D:\\Estudos\\Amivolta\\Cadastro Amivolta\\Tela_de_carregamento.cs",
+              "RelativeDocumentMoniker": "Tela_de_carregamento.cs",
+              "ToolTip": "D:\\Estudos\\Amivolta\\Cadastro Amivolta\\Tela_de_carregamento.cs [Design]",
+              "RelativeToolTip": "Tela_de_carregamento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T20:41:03.009Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastro.cs [Design]",
+              "DocumentMoniker": "D:\\Estudos\\Amivolta\\Cadastro Amivolta\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro.cs",
+              "ToolTip": "D:\\Estudos\\Amivolta\\Cadastro Amivolta\\Cadastro.cs [Design]",
+              "RelativeToolTip": "Cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T20:01:20.825Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastro_2.cs [Design]",
+              "DocumentMoniker": "D:\\Estudos\\Amivolta\\Cadastro Amivolta\\Cadastro_2.cs",
+              "RelativeDocumentMoniker": "Cadastro_2.cs",
+              "ToolTip": "D:\\Estudos\\Amivolta\\Cadastro Amivolta\\Cadastro_2.cs [Design]",
+              "RelativeToolTip": "Cadastro_2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T20:01:23.654Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\Cadastro Amivolta.exe.config
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\Cadastro Amivolta.exe
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\Cadastro Amivolta.pdb
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\Google.Protobuf.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\K4os.Compression.LZ4.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\K4os.Hash.xxHash.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\MySql.Data.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Buffers.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.IO.Pipelines.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Memory.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Numerics.Vectors.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\ZstdSharp.dll
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\Google.Protobuf.pdb
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\Google.Protobuf.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\K4os.Compression.LZ4.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\K4os.Hash.xxHash.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\MySql.Data.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Buffers.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.IO.Pipelines.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Memory.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Numerics.Vectors.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Estudos\Amivolta\Cadastro Amivolta\obj\Debug\Cadastro_Amivolta.csproj.AssemblyReference.cache
+D:\Estudos\Amivolta\Cadastro Amivolta\obj\Debug\Cadastro_Amivolta.Pesquisa.resources
+D:\Estudos\Amivolta\Cadastro Amivolta\obj\Debug\Cadastro_Amivolta.Properties.Resources.resources
+D:\Estudos\Amivolta\Cadastro Amivolta\obj\Debug\Cadastro_Amivolta.csproj.GenerateResource.cache
+D:\Estudos\Amivolta\Cadastro Amivolta\obj\Debug\Cadastro_Amivolta.csproj.CoreCompileInputs.cache
+D:\Estudos\Amivolta\Cadastro Amivolta\obj\Debug\Cadastro.E1C45974.Up2Date
+D:\Estudos\Amivolta\Cadastro Amivolta\obj\Debug\Cadastro Amivolta.exe
+D:\Estudos\Amivolta\Cadastro Amivolta\obj\Debug\Cadastro Amivolta.pdb
+D:\Estudos\Amivolta\Cadastro Amivolta\obj\Debug\Cadastro_Amivolta.Cadastro_2.resources
+D:\Estudos\Amivolta\Cadastro Amivolta\bin\Debug\System.Configuration.ConfigurationManager.xml
