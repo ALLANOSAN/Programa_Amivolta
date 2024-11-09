@@ -3,27 +3,31 @@
 #             https://www.jetbrains.com/help/qodana/qodana-yaml.html            #
 #-------------------------------------------------------------------------------#
 version: "1.0"
-
 #Specify IDE code to run analysis without container (Applied in CI/CD pipeline)
 ide: QDNET
-
 #Specify inspection profile for code analysis
 profile:
   name: qodana.starter
+include:
+  - name: UnassignedField.Global
+  - name: SuggestVarOrType_SimpleTypes
+  - name: ConvertConstructorToMemberInitializers
+  - name: MemberCanBePrivate.Global
+  - name: ConvertIfStatementToSwitchStatement
+  - name: InvertIf
+  - name: ArrangeTypeMemberModifiers
+  - name: SuggestVarOrType_BuiltInTypes
 
 #Enable inspections
 #include:
 #  - name: <SomeEnabledInspectionId>
-
 #Disable inspections
 #exclude:
 #  - name: <SomeDisabledInspectionId>
 #    paths:
 #      - <path/where/not/run/inspection>
-
 #Execute shell command before Qodana execution (Applied in CI/CD pipeline)
 #bootstrap: sh ./prepare-qodana.sh
-
 #Install IDE plugins before Qodana execution (Applied in CI/CD pipeline)
 #plugins:
 #  - id: <plugin.id> #(plugin id can be found at https://plugins.jetbrains.com)
