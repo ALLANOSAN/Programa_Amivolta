@@ -17,6 +17,16 @@ include:
   - name: InvertIf
   - name: ArrangeTypeMemberModifiers
   - name: SuggestVarOrType_BuiltInTypes
+  - name: UnusedType.Global
+exclude:
+  - name: All
+    paths:
+      - Properties
+      - AmivoltaBD.cs
+      - Cadastro_2.cs
+      - Cadastro.cs
+      - Program.cs
+      - Tela_de_carregamento.cs
 
 #Enable inspections
 #include:
