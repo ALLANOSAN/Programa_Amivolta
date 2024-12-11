@@ -37,8 +37,7 @@ namespace Cadastro_Amivolta
                     MessageBox.Show($"Erro ao conectar ao banco de dados: {ex.Message}", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
 
-                throw; // Re-lançar a exceção para que o erro possa ser tratado em outro lugar, se necessário
-                
+                throw; // Re-lançar a exceção para que o erro possa ser tratado em outro lugar, se necessário                
             }
         }
     }
