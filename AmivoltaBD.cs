@@ -38,6 +38,7 @@ namespace Cadastro_Amivolta
                 }
 
                 throw; // Re-lançar a exceção para que o erro possa ser tratado em outro lugar, se necessário
+                
             }
         }
     }
